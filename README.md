@@ -114,11 +114,22 @@ Adobe Commerce Cloud Developer Expert Certification  ["AD0-E706 Adobe Commerce C
       - How to upsize the environment
 
 # References
++ [Adobe Magento Exam Guide](https://express.adobe.com/page/34U3DEjqG3G4Q/)
++ [Magento at GitHub](https://github.com/magento/magento2/tree/2.4.3)
++ [Magento DevDocs](https://devdocs.magento.com/)
++ [Glossary](https://glossary.magento.com/)
++ [Adobe Commerce (Magento Stack Exchange)](https://magento.stackexchange.com/questions)
+
 ## Links
-- [Adobe Magento Exam Guide](https://express.adobe.com/page/34U3DEjqG3G4Q/)
-- [Magento at GitHub](https://github.com/magento/magento2/tree/2.4.3)
-- [Magento DevDocs](https://devdocs.magento.com/)
-- [Glossary](https://glossary.magento.com/)
-- [Adobe Commerce (Magento Stack Exchange)](https://magento.stackexchange.com/questions)
++ [Cloud Project](https://cloud.magento.com/cloud/project/view/)
++ [Integration Environment](https://magento.cloud)
++ [Help center / Support](https://support.magento.com/hc/en-us/requests)
++ [Status](https://status.magento.cloud/)
++ [CLA](https://magento.com/legal/terms/cloud-sla)
++ [Magento Cloud Repository](https://github.com/magento/magento-cloud)
++ [Ece-Tools Repository](https://github.com/magento/ece-tools)
++ [Ece-Tools / .magento.env.yaml sample](https://github.com/magento/ece-tools/blob/2002.0.17/dist/.magento.env.yaml)
++ [Fastly tester](https://magento-tester.global.ssl.fastly.net/magento-tester/)
++ [magento-cloud list](https://gist.github.com/simpleadm/69c3ef764fdd637a109bbaed8420d714)
 
 ## Credits
