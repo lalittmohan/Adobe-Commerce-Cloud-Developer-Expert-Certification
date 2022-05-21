@@ -8,22 +8,24 @@ remote_theme: hydecorp/hydejack@v9.0.5
 ################################################################################################################
 
 lang: #  default language is en I think it as global may be change later translated branch wise
-title: Adobe Commerce Professional Certification - (0711)
-short_title: Adobe Commerce Professional Certification
-description: Adobe Certified Professional Magento Commerce Developer (AD0-E711).
-tagline: “Adobe Commerce Developer Professional Certification (AD0-E711)”.
-url: https://lalittmohan.github.io/adobe-commerce-professional-certification/
+title: Adobe Commerce Cloud Developer Expert Certification - (ADO-706)
+short_title: Adobe Commerce Cloud Developer Expert Certification
+description: Adobe Commerce Cloud Developer Expert Certification  (ADO-706).
+tagline: “Adobe Commerce Cloud Developer Expert Certification (ADO-706)”.
+url: https://lalittmohan.github.io/Adobe-Commerce-Cloud-Developer-Expert-Certification/
 baseurl: /
 keywords: [
   'Magento',
   'Magento 2',
+  'adobe commerce cloud',
   'magento2 certification',
-  'adobe commerce certification course',
+  'adobe commerce cloud certification course',
   'magento2 certified',
-  'Adobe commerce',
-  'Adobe certified professional exam',
-  'certified',
-  'magento2 study-guide'
+  'Adobe commerce certification',
+  'Adobe certified cloud exam',
+  'certification',
+  'magento2 study-guide',
+  'adobe commerce study-guide'
   ]
   
 author:
@@ -38,7 +40,7 @@ author:
 
   ## => GitHub Repository (if the site is hosted by GitHub)
   ##############################
-  repository: lalittmohan/adobe-commerce-professional-certification
+  repository: lalittmohan/Adobe-Commerce-Cloud-Developer-Expert-Certification
   repository_tree: master
 
 ## => Markdown Enhancements
@@ -97,22 +99,28 @@ share-links-active:
   
 # Add links to the sidebar
 menu:
-  - title: 01 - Working with Admin
-    url:   /working-with-admin.md
-  - title: 02 - Architecture
-    url:   /architecture.md
-  - title: 03 - EAV/Database
-    url:   /eav-database.md
-  - title: 04 - Layout/UI
-    url:   /layout-ui.md
-  - title: 05 - Checkout and Sales
-    url:   /checkout-and-sales.md
-  - title: 06 - Catalog
-    url:   /catalog.md
+  - title: 01 - Commerce Cloud Fundamentals
+    url:   /commerce-cloud-fundamentals.md
+  - title: 02 - Local Environment
+    url:   /local-environment.md
+  - title: 03 - Cloud Configuration
+    url:   /cloud-configuration.md
+  - title: 04 - Service Configuration
+    url:   /service-cofiguration.md
+  - title: 05 - Deployment Process
+    url:   /deployment-process.md
+  - title: 06 - Static Content Deployment
+    url:   /satic-content-deployment.md
+  - title: 07 - Development
+      url: /development.md
+  - title: 08 - Troubleshooting
+      url: /troubleshooting.md
+  - title: 09 - Go Live and Maintenance
+      url: /go-live-and-maintenance.md
 
 no_search: false
 accent_image: none
-accent_color: rgb(52,109,115)
+accent_color: rgb(219,44,44)
 
 ## => Plugins
 ##############################
