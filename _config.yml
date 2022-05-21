@@ -112,11 +112,11 @@ menu:
   - title: 06 - Static Content Deployment
     url:   /satic-content-deployment.md
   - title: 07 - Development
-      url: /development.md
+    url: /development.md
   - title: 08 - Troubleshooting
-      url: /troubleshooting.md
+    url: /troubleshooting.md
   - title: 09 - Go Live and Maintenance
-      url: /go-live-and-maintenance.md
+    url: /go-live-and-maintenance.md
 
 no_search: false
 accent_image: none
