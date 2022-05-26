@@ -100,23 +100,23 @@ share-links-active:
 # Add links to the sidebar
 menu:
   - title: 01 - Commerce Cloud Fundamentals
-    url:   /commerce-cloud-fundamentals.md
+    url:   /commerce-cloud-fundamentals
   - title: 02 - Local Environment
-    url:   /local-environment.md
+    url:   /local-environment
   - title: 03 - Cloud Configuration
-    url:   /cloud-configuration.md
+    url:   /cloud-configuration
   - title: 04 - Service Configuration
-    url:   /service-cofiguration.md
+    url:   /service-cofiguration
   - title: 05 - Deployment Process
-    url:   /deployment-process.md
+    url:   /deployment-process
   - title: 06 - Static Content Deployment
-    url:   /satic-content-deployment.md
+    url:   /satic-content-deployment
   - title: 07 - Development
-    url: /development.md
+    url: /development
   - title: 08 - Troubleshooting
-    url: /troubleshooting.md
+    url: /troubleshooting
   - title: 09 - Go Live and Maintenance
-    url: /go-live-and-maintenance.md
+    url: /go-live-and-maintenance
 
 no_search: false
 accent_image: none
